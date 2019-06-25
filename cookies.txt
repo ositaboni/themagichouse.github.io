@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.4505burgersandbbq.com	TRUE	/	FALSE	1999999999	csrftoken	bv5RscLZMwKbHJwqqG3MRh08MbANfAfI856pgETj6AeLFWYceoAgUNAZbj2l7bVZ
+
